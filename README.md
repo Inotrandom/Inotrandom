@@ -1,13 +1,12 @@
-# Who?
+## Hallo!
 
-## Developer
+How are you doin`?
 
-Developer with approximately five years of experience writing both high and low level code. 
-Nowadays, I use Rust, but I also know Python and Lua (unfortunately).
+I'm a computer science nerd- constantly doing... well, computer science. You'll frequently catch me in the act of:
 
-## Gamer
+* Writing C++ Programs
+* Concieving my Evil Robot Army
+* Screwing around with videogame modding tools
+* Eating
 
-I tend to create games, so be on the look out for any game related projects.
-I have also written mods for games, most notably Teardown. ("Evil Objects" and "Litter Tool" for the curious souls)
-
-# No further comment.
+...and just generally existing. Yay!

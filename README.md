@@ -1,6 +1,6 @@
 ## Hallo!
 
-How are you doin`?
+How ya doin`?
 
 I'm a computer science nerd- constantly doing... well, computer science. You'll frequently catch me in the act of:
 

@@ -6,7 +6,6 @@ I'm a computer science nerd- constantly doing... well, computer science. You'll 
 
 * Writing C++ Programs
 * Concieving my Evil Robot Army
-* Screwing around with videogame modding tools
-* Eating
+* Producing music
 
 ...and just generally existing. Yay!
